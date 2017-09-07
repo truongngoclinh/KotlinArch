@@ -1,5 +1,5 @@
 # KotlinArch
-Kotlin github client sample, applying TDD
+Kotlin github client sample, applying *TDD*
 
 Architecture: `MVP, GG Arch`
 
